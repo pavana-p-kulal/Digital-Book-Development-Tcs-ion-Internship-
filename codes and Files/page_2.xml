@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<main>
+    <MainHeading><![CDATA[]]></MainHeading>
+    <SubHeading><![CDATA[]]></SubHeading>
+    <PageData>
+	 <PageText>
+         <pText><![CDATA[ 
+    <Table>
+    <TR><TD>Speed of Mission</TD><TD>Slow</TD><TD>Fast</TD></TR>
+        <TR><TD>Cost</TD><TD>Medium</TD><TD>High</TD></TR>
+    <TR><TD>Bandwidth Required</TD><TD>High</TD><TD>Medium</TD></TR>
+    <TR><TD>Antenna</TD><TD>Omni-directional</TD><TD>Directional</TD></TR>
+    <TR><TD>Complexity of control</TD><TD>Low</TD><TD>High</TD></TR>
+    <TR><TD>Failure of co-ordinate</TD><TD>Low</TD><TD>Present</TD></TR>
+    </Table>
+  <PageData>
+	 <PageText>
+         <pText><![CDATA[      <b>UAV Components</b>]]></pText>
+    </PageText>
+      <PageText>
+         <pText><![CDATA[<span class="PageAudioClass" id="Audio_BTNID" url="en/Sound/Audio_1"
+headername="Audio">Internet of Things</span>Manned and unmanned aircraft of the same type generally have recognizably similar physical components. The main exceptions are the cockpit and environmental control system or life support systems. Some UAVs carry payloads (such as a camera) that weigh considerably less than an adult human, and as a result can be considerably smaller. Though they carry heavy payloads, military UAVs with weapons are lighter than their manned counterparts with comparable armaments.]]></pText>
+    </PageText>
+      <PageText>
+         <pText><![CDATA[Small civilian UAVs have no life-critical systems and can thus be built out of lighter but less sturdy materials and shapes, and can use less robustly tested electronic control systems. For small UAVs, the quadcopter design has become popular, though this layout is rarely used for manned aircraft. Miniaturization means that less-powerful propulsion technologies can be used that are not feasible for manned aircraft, such as small electric motors and batteries.]]></pText>
+    </PageText>
+      <PageText>
+         <pText><![CDATA[   Control systems for UAVs are often different than manned craft. For remote human control, a camera and video link almost always replace the cockpit windows; radio-transmitted digital commands replace physical cockpit controls. Autopilot software is used on both manned and unmanned aircraft, with varying feature sets. Figure 5.1 shows the architecture of UAV.]]></pText>
+    </PageText>
+           <PageText>
+         <pText><![CDATA[
+<div class="BigImgClass" style="text-allign:center"><img src="en/images/fig1_1.png"</div>
+]]></pText>
+    </PageText>
+      </PageData>
+</main>

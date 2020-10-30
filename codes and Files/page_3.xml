@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<main>
+  <PageData>
+	<MainHeading><![CDATA[]]></MainHeading>
+    <SubHeading><![CDATA[]]></SubHeading>
+    <PageText>
+        <pText><![CDATA[<b><i>Aircraft body</i></b>]]></pText>
+    </PageText>
+       <PageText>
+        <pText><![CDATA[<a href="en\Resource\file_1.pdf" class="SectionClass" target="_blank">drone</a>The primary difference for planes is the absence of the cockpit area and its windows. Tailless quadcopters are a common form factor for rotary wing UAVs while tailed mono and bi-copters are common for manned platforms.]]></pText>
+      </PageText>
+       <PageText>
+        <pText><![CDATA[<b><i>Power supply and platform</i></b>]]></pText>
+    </PageText>
+ <PageText>
+        <pText><![CDATA[Small UAVs mostly use lithium-polymer batteries (Li-Po), while larger vehicles rely on conventional airplane engines. Battery elimination circuitry (BEC) is used to centralize power distribution and often harbors a microcontroller unit (MCU). Costlier switching BECs diminish heating on the platform.]]></pText>
+    </PageText>
+       <PageText>
+        <pText><![CDATA[<b><i>Computing module</i></b>]]></pText>
+    </PageText>
+      <PageText>
+        <pText><![CDATA[UAV computing capability followed the advances of computing technology, beginning with analog controls and evolving into microcontrollers, then system-on-a-chip (SOC) and single- board computers (SBC). System hardware for small UAVs is often called the Flight Controller (FC), Flight Controller Board (FCB) or Autopilot.]]></pText>
+    </PageText>
+       <PageText>
+           <pText><![CDATA[<b><i>Sensors</i></b>]]></pText>
+    </PageText>
+       <PageText>
+           <pText><![CDATA[Position and movement sensors give information about the aircraft state. Exteroceptive sensors deal with external information like distance measurements, while exproprioceptive ones correlate internal and external states. Non-cooperative sensors are able to detect targets autonomously so they are used for separation assurance and collision avoidance. Degrees of freedom (DOF) refer to both the amount and quality of sensors on-board: 6 DOF implies 3-axis gyroscopes and accelerometers (a typical inertial measurement unit – IMU), 9 DOF refers to an IMU plus a compass, 10 DOF adds a barometer and 11 DOF usually adds a GPS receiver]]></pText>
+    </PageText>
+      <PageText>
+          <pText><![CDATA[<b><i>Actuators</i></b>]]></pText>
+    </PageText>
+       <PageText>
+           <pText><![CDATA[Position and movement sensors give information about the aircraft state. Exteroceptive sensors deal with external information like distance measurements, while exproprioceptive ones correlate internal and external states. Non-cooperative sensors are able to detect targets autonomously so they are used for separation assurance and collision avoidance. Degrees of freedom (DOF) refer to both the amount and quality of sensors on-board: 6 DOF implies 3-axis gyroscopes and accelerometers (a typical inertial measurement unit – IMU), 9 DOF refers to an IMU plus a compass, 10 DOF adds a barometer and 11 DOF usually adds a GPS receiver]]></pText>
+    </PageText>
+      <PageText>
+          <pText><![CDATA[<b><i>Software</i></b>]]></pText>
+    </PageText>
+       <PageText>
+           <pText><![CDATA[UAV software called the flight stack or autopilot. UAVs are real-time systems that require rapid response to changing sensor data. Examples include Raspberry Pis, Beagleboards, etc. shielded with NavIO, PXFMini, etc. or designed from scratch such as Nuttx, preemptive-RT Linux, Xenomai, Orocos-Robot Operating System or DDS-ROS 2.0.]]></pText>
+    </PageText>
+       </PageData>
+</main>

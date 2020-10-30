@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<main>
+  <PageData>
+	<MainHeading><![CDATA[]]></MainHeading>
+    <SubHeading><![CDATA[]]></SubHeading>
+    <PageText>
+      <pText><![CDATA[  UAV to an active UAV. Several existing routing protocols have been in the zone of consideration of researchers and quite a few variations have been proposed. While newer protocols attempt to remove some shortcoming of the traditional ones, the field is still open.]]></pText>
+    </PageText>
+      <PageText>
+      <pText><![CDATA[In addition to the requirements present in the generic wireless mesh networks, e.g., finding the most efficient route, allowing the network to scale, controlling latency, ensuring reliability, taking care of mobility and ensuring required Quality of Service (QoS); routing in airborne networks requires location-awareness, energy-awareness, and increased robustness to intermittent links and changing topology. Designing the network layer for UAV networks is still one of the most challenging tasks. Although conventional ad hoc routing protocols are designed for mobile nodes, they are not necessarily suitable for airborne nodes because of varying requirements of dynamicity and link interruptions. Routing protocols that try   to increase delivery ratio, reduce delays, scalability, loop freedom, energy conservation and efficient use of resources also needs to be resolved.]]></pText>
+    </PageText>
+       <PageText>
+           <pText><![CDATA[	<b>Topology</b>]]></pText>
+    </PageText>
+      <PageText>
+           <pText><![CDATA[UAV network topology or configuration can be broadly classified into a) Star topology b) Mesh topology.]]></pText>
+    </PageText>
+       <PageText>
+           <pText><![CDATA[<b><i>Star Topology</i></b>]]></pText>
+    </PageText>
+       <PageText>
+           <pText><![CDATA[Star topology can be again classified as a) single star configuration b) multi-star configuration<br>
+In a single star configuration, each UAV is directly connected to the ground station. In a multi-star configuration, UAVs form multiple star topology. One node from each star topology group connects to the ground station. Star topology has high latency and highly dependent on ground station. Figure 5.2 (a) shows a single star configuration and Figure 5.2(b) shows a multi-star configuration.
+]]></pText>
+    </PageText>
+       <PageText>
+           <pText><![CDATA[
+<div class="BigClassImg" style="text-align:center"><img src="en/images/fig2_2.png"></div>]]></pText>
+    </PageText>
+    </PageData>
+</main>
